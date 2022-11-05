@@ -8,7 +8,7 @@ double num = 5.5; //яйчейки памяти (переменные) с дро
 Console.WriteLine(woter); //мы ссылаемся на переменную
 Console.WriteLine(num);
 Console.WriteLine(number);
-Console.WriteLine("hello world");
+Console.WriteLine("hello world!");
 //Console - команда для работы с консолью/терминалом
 //.WrireLine() - команда для того, чтобы написать строку c каким либо содержимым в терминал. Текстом является то, что мы написали в скобочках в таких кавычках ("")
 
@@ -16,5 +16,3 @@ Console.WriteLine("hello world");
 // + - / * % 
 Console.WriteLine(number * num);
 Console.WriteLine(3 * 5 - (55 / 11));
-
-//
