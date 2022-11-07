@@ -1,7 +1,7 @@
 ﻿//Урок 1 
 
 //Переменные - ячейки памяти с определенным содержимым
-string woter = "манундель"; //яйчейки памяти (переменные) с текстом
+string woter = "я сама"; //яйчейки памяти (переменные) с текстом
 int number = 99; //яйчейки памяти (переменные) с целыми числами
 double num = 5.5; //яйчейки памяти (переменные) с дробными числами
 
@@ -16,3 +16,5 @@ Console.WriteLine("hello world!");
 // + - / * % 
 Console.WriteLine(number * num);
 Console.WriteLine(3 * 5 - (55 / 11));
+Console.WriteLine("Я сама");
+Console.WriteLine(woter); 
