@@ -18,3 +18,4 @@ Console.WriteLine(number * num);
 Console.WriteLine(3 * 5 - (55 / 11));
 Console.WriteLine("Я сама");
 Console.WriteLine(woter); 
+Console.WriteLine(num-number);
